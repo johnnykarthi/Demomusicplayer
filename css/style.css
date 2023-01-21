@@ -48,6 +48,7 @@ body{
     .music{
         padding: 20px;
         margin: 0 30px;
+        border-radius: 0;
     }
     .logo{
         padding: 30px;
